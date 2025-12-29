@@ -50,7 +50,8 @@ With adaptive intelligence, deep learning personalization, and conversational AI
 
 > 🚀 Experience innovation — beautifully.
 
- <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/84be3d40-c7e8-4d10-bdb4-618ca6cc9664" />
+ <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d449d594-5d75-4f62-aaf5-770d8788f9f2" 
+ />
 
  
 --
