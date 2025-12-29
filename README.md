@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img width="1536" height="1024" alt="ChatGPT Image Nov 12, 2025, 08_54_11 AM" src="https://github.com/user-attachments/assets/b72c9f14-9ab7-4c1f-b03a-5853777247b6" />
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### ⚡️ _Your Intelligent Learning Companion_  
+> “Empowering the future of education — one personalized lesson at a time.”
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Education-Futuristic%20Mentor-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20By-OpenAI%20%7C%20LangChain-00FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-00FF99?style=for-the-badge" />
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Overview
 
-To learn more about Next.js, take a look at the following resources:
+**EduMentor AI** is a next-generation AI mentor built to transform how students learn and educators teach.  
+With adaptive intelligence, deep learning personalization, and conversational AI, EduMentor AI delivers **interactive, data-driven education experiences** that evolve with each learner.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧠 Core Features
 
-## Deploy on Vercel
+- 🎯 **Personalized Tutoring** — AI-generated study plans tailored to individual goals  
+- 💬 **Conversational Mentor** — Chat with an intelligent tutor powered by LLMs  
+- 📊 **Smart Analytics** — Gain insights into learning progress and knowledge gaps  
+- 🧩 **Modular Design** — Easily integrate APIs or content sources  
+- 🔒 **Privacy-First** — Secure handling of user data and analytics  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|:------|:------------|
+| **Frontend** | React + Tailwind CSS |
+| **Backend** | Python / FastAPI |
+| **AI Engine** | OpenAI API / LangChain |
+| **Database** | PostgreSQL / Supabase |
+| **Deployment** | Docker + Vercel / Render |
+
+---
+
+## ⚙️ Installation
+
+ # ✨ My Awesome App
+
+> 🚀 Experience innovation — beautifully.
+
+ <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/84be3d40-c7e8-4d10-bdb4-618ca6cc9664" />
+
+ 
+--
+
+## 🪄 Try It Now
+👉 **[Launch App](https://reeledtech-app.vercel.app/)**
